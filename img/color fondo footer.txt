@@ -1,0 +1,1 @@
+color del footer : #282830
