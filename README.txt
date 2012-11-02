@@ -1,8 +1,4 @@
-﻿/* the humans responsible & colophon */
-/* humanstxt.org */
-
-
-/* TEAM */
+﻿/* TEAM */
 
 
   Author		Ulises Rodríguez
@@ -17,12 +13,12 @@
 
 
 /* THANKS */
-  Names ( Ulises Rodríguez & ing.ulisesrodriguez@gmail.com ):
+  Names ( Ulises Rodríguez ):
 
 /* SITE */
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software:
+  Components: jQuery
+  Software: Template-01
 
 
 
